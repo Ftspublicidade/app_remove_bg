@@ -1,5 +1,5 @@
 python == 3.9.12
-pip
+pip == 23.3.2
 streamlit
 PIL
 rembg
